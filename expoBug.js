@@ -1,0 +1,3 @@
+While using Expo CLI, I encountered an issue where the development server failed to start with the error message: "Error: spawn UNKNOWN"
+
+I've tried various troubleshooting steps, including reinstalling Node.js, npm, and Expo CLI. I've also checked my system environment variables and ensured that my project dependencies are correctly installed. However, the problem persists.  The error provides no details regarding the cause, making debugging challenging.  This has completely halted my development workflow.
